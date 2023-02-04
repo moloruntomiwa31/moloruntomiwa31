@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oloruntomiwa.</h1>
-<h3 align="center">A Frontend Developer that has passion for creting nice user interfaces.</h3>
+<h3 align="center">A Frontend Developer that has passion for creating nice user interfaces.</h3>
 
 - 🌱 I’m currently learning **Bootstrap, Javascript.**
 
