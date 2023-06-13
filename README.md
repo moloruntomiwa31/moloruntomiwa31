@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #fc7300">Hi 👋, I'm Michael Oloruntomiwa</h1>
 <h3 align="center">A Frontend Developer that has passion for creating nice user interfaces.</h3>
 
-- 🌱 I’m currently learning **JavaScript, Angular JS.**
+- 🌱 I’m currently learning more on Frontend Development, VUE.JS.**
 
 - 📫 How to reach me **moloruntomiwa31@gmail.com**
 
