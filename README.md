@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src=""  />
-</div>
-
 ###
 
 <div align="left">
@@ -24,7 +20,7 @@
 
 ###
 
-<h1 align="center">Hey👋, How's it going?</h1>
+<h1 align="left">Hey👋, How's it going?</h1>
 
 ###
 
